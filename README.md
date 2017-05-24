@@ -24,5 +24,8 @@ F->(E)
 
 
 This was a Compilers class project and the UI is on Spanish. I hope its useful somehow!
+## Authors
+
+* **Mateo Daza** - *Compilers Project* - [Universidad del Norte](http://www.uninorte.edu.co)
 
 :)

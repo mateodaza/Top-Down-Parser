@@ -7,13 +7,19 @@ The syntax for the productions will be :
 - NonTerminals: UpperCase letters
 - Terminals: Any symbol except for > or Uppercase letters
 
-Example: 
+# Example: 
 E->E+T
+
 E->T
+
 T->T*F
+
 T->F
+
 F->i
+
 F->(E)
+
 
 This was a Compilers class project and the UI is on Spanish. I hope its useful somehow!
 

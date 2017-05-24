@@ -3,11 +3,12 @@ Given a context-free grammar on a txt file, the app will remove left recursion a
 Then based on FIRST and FOLLOW sets, it will generate a parse table which can be tested with some words examples. 
 You can test it with the exemple.txt file that's in the folder.
 
-The syntax for the productions will be :
+#Grammar Productions Syntax
 - NonTerminals: UpperCase letters
 - Terminals: Any symbol except for > or Uppercase letters
 
-# Example: 
+# Grammar File Example 
+```
 E->E+T
 
 E->T
@@ -19,6 +20,7 @@ T->F
 F->i
 
 F->(E)
+```
 
 
 This was a Compilers class project and the UI is on Spanish. I hope its useful somehow!

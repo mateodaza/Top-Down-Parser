@@ -22,10 +22,10 @@ F->i
 F->(E)
 ```
 
-
+# By the way
 This was a Compilers class project and the UI is on Spanish. I hope its useful somehow!
 ## Author
 
-**Mateo Daza** - *Compilers Project* - [Universidad del Norte](http://www.uninorte.edu.co)
+**Mateo Daza**  - [Universidad del Norte](http://www.uninorte.edu.co)
 
 :)

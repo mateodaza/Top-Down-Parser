@@ -3,7 +3,7 @@ Given a context-free grammar on a txt file, the app will remove left recursion a
 Then based on FIRST and FOLLOW sets, it will generate a parse table which can be tested with some words examples. 
 You can test it with the exemple.txt file that's in the folder.
 
-#Grammar Productions Syntax
+# Grammar Productions Syntax
 - NonTerminals: UpperCase letters
 - Terminals: Any symbol except for > or Uppercase letters
 
